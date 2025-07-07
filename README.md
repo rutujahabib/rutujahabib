@@ -1,16 +1,24 @@
-### Hi there 👋
+👩‍💻 About Me
+Hi there! I'm Rutuja, a passionate learner and aspiring developer from India 🇮🇳.
 
-<!--
-**rutujahabib/rutujahabib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I Do:
+🎓 Computer Engineering student at SPPU
+🌐 Exploring Web Development, Web3, and Blockchain
+🔒 Interested in Data Privacy & Security
+🤖 Diving into Machine Learning & AI
+🛠️ Working with: React, Node.js, MongoDB, TypeScript, Solana, Express, python
+📦 Learning: Next.js, DevOps, Rust, Smart Contracts, Docker, Kubernetes
 
-Here are some ideas to get you started:
+🏆 Achievements:
+⚡ Published research paper on AI driven software patch management system - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5086731 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Preparing for GATE CSE 2026
+✨ Building real-world projects, always learning
+
+🤝 Let's Connect:
+💼 LinkedIn : https://www.linkedin.com/in/rutuja-habib
+
+🌍 Portfolio :
+
+📬 Email: rutujahabib07@gmail.com
+
