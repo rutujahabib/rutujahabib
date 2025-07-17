@@ -18,7 +18,7 @@ Hi there! I'm Rutuja, a passionate learner and aspiring developer from India �
 🤝 Let's Connect:
 💼 LinkedIn : https://www.linkedin.com/in/rutuja-habib
 
-🌍 Portfolio :
+🌍 Portfolio : https://personal-portfolio-rutujahabibs-projects.vercel.app/
 
 📬 Email: rutujahabib07@gmail.com
 
