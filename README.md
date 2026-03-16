@@ -9,6 +9,7 @@ Working with: React, Node.js, MongoDB, TypeScript, Solana, Express, python
 Learning: Next.js, DevOps, Rust, Smart Contracts, Docker, Kubernetes
 
 🏆 Achievements:
+
 ⚡ Published research paper on AI driven software patch management system - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5086731 
 
 🤝 Let's Connect:
